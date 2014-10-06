@@ -75,4 +75,3 @@ Included Executables:
 1. BRICK.exe    // Game 
 2. LEVELER.exe  // Level Editor
 
-Please do not copy our hardwork ;)
