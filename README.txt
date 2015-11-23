@@ -63,13 +63,16 @@ ___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|
 
 
 
-WELCOME TO THE BRICK GAME
+      THE BRICK GAME
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 REQUIREMENTS:
 -> 16 Bit Windows Environment [Windows XP or less]
 -> 5 Level files named LEVEL<0..4>.lvl
 -> BGI and CHR Files included in this folder [Also available in TC Folder]
 
+Authors:
+-> rhnvrm     <rohanverma2004@gmail.com>
+-> hemanshu95 <hemanshu95@gmail.com>
 
 Included Executables:
 1. BRICK.exe    // Game 
